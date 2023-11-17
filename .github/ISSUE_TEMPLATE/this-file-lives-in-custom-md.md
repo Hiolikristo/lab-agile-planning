@@ -1,5 +1,5 @@
 ---
-name: tHis file lives in custom.md
+name: tHis file lives in custom
 about: This is for user stories
 title: ''
 labels: ''
